@@ -1,17 +1,21 @@
 :root {
   --primary-color: teal;
-  --secondary-color: lightgrey;
+  --secondary-color: grey;
   --border: solid black;
 }
 
 h1 {
   color: var(--primary-color);
+  text-align: center;
 }
 h2 {
   color: var(--secondary-color);
   border: var(--border);
+  text-align: center;
 }
-
+div {
+  text-align: center;
+}
 .email-link:hover {
   color: red;
   text-decoration: wavy;
