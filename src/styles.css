@@ -11,7 +11,6 @@ h1 {
 }
 h2 {
   color: var(--secondary-color);
-  border: var(--border);
   text-align: center;
 }
 div {
