@@ -51,12 +51,13 @@ p {
 }
 .secondary-link {
   color: var(--primary-color);
-  border: 1px solid var(--primary-color);
+  border: 2px solid var(--primary-color);
   margin: 20px;
   border-radius: 4px;
   padding: 20px 15px;
   text-decoration: none;
   margin-bottom: 30px;
+  font-weight: bold;
 }
 .resume-link {
   color: var(--primary-color);
