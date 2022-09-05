@@ -5,7 +5,7 @@
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
 body {
-  margin: 40px 10px;
+  margin: 30px 10px;
   background-image: url("grey.jpg");
   background-size: cover;
   font-family: "Poppins", sans-serif;
@@ -40,7 +40,7 @@ p {
   box-shadow: var(--box-shadow);
   margin: 20px;
   border-radius: 4px;
-  padding: 20px 15px;
+  padding: 20px 25px;
   text-decoration: none;
   margin-bottom: 30px;
   display: inline-block;
@@ -50,7 +50,7 @@ p {
   border: 2px solid var(--primary-color);
   margin: 20px;
   border-radius: 4px;
-  padding: 20px 15px;
+  padding: 20px 25px;
   text-decoration: none;
   margin-bottom: 30px;
   font-weight: bold;
